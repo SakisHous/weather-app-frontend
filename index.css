@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: Aliceblue;
+}
+
+.hidden {
+  display: none;
+}
+
+hr {
+  width: 250px;
+  margin: auto;
+}
